@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    font-family: sans-serif; 
+    line-height: 1.5;
+    width: 980px;
+    margin:0 auto;
+    
+}
+h1{
+color: white;
+text-align: center;    
+}
+h2{
+    color: white;
+    text-align: center;
+}
+p{
+    color:aquamarine;
+    text-align: center;
+}
+li{
+    color:blue;
+    text-align: center;
+}
